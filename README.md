@@ -1,3 +1,3 @@
 # startupoftheyear
 
-Here i will write more details about this repository
+https://nat9339.github.io/startupoftheyear/
